@@ -1,0 +1,7 @@
+langchain-experimental
+langchain-community
+langchain-core
+langchain
+langchain-groq
+networkx
+pandas
